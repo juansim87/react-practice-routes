@@ -1,0 +1,13 @@
+.navbar-items {
+    display: flex;
+    gap: 20px;
+}
+
+.navbar-item {
+    padding: 8px;
+    
+}
+.active {
+    color: rgba(255, 0, 0, 0.489);
+    background-color: aquamarine;
+}
